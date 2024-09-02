@@ -1,9 +1,17 @@
+<!-- [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)-->
 
-<!-- ![MasterHead](https://www.lambdatest.com/resources/images/news24.gif)-->
+
+
+<p align="center">
+  <img src="https://www.lambdatest.com/resources/images/news24.gif" alt="Abstract tech animation">
+</p>
+
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi+there👋+I'm+Nur+Islam+Shourav..;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ni-shourav&label=Profile%20views&color=0e75b6&style=flat" alt="ni-shourav" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ni-shourav&label=Profile%20views&color=brightgreen&style=for-the-badg" alt="ni-shourav" /> </p>
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/NISHOURAV?color=1DA1F2&logo=x&style=for-the-badge)](https://x.com/nishourav)
 
 - 🌱 I’m currently learning **everything and focusing on me 🤣**
 - 👯 I’m looking to collaborate with other content creators
@@ -31,6 +39,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NI-Shourav&theme=radical&hide_border=false)
 <br/>
 
-# 🐍 snake eating my contribution graph
+# 🐍 Snake eating my contribution graph
 ![snake gif](https://github.com/NI-Shourav/NI-Shourav/blob/output/github-snake-dark.svg)
 
