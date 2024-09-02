@@ -1,36 +1,14 @@
-![MasterHead](https://www.lambdatest.com/resources/images/news24.gif)
 
+<!-- ![MasterHead](https://www.lambdatest.com/resources/images/news24.gif)-->
 <p align="center">
-<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Md+Nadeem+Sarwar..;Microsoft+Student+Ambassador;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
-
-<h1 align="center">Hi 👋, I'm Nur Islam Shourav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi+there👋+I'm+Nur+Islam+Shourav..;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ni-shourav&label=Profile%20views&color=0e75b6&style=flat" alt="ni-shourav" /> </p>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
-
-- 🔭 I’m currently working on [A](https://www.facebook.com/Nurislamshourav)
-
-- 🌱 I’m currently learning **everything and foucusing on me 🤣**
-
-- 👯 I’m looking to collaborate on [B](https://www.facebook.com/Nurislamshourav)
-
-- 🤝 I’m looking for help with [C](https://www.facebook.com/Nurislamshourav)
-
-- 👨‍💻 All of my projects are available at [https://www.facebook.com/Nurislamshourav](https://www.facebook.com/Nurislamshourav)
-
-- 💬 Ask me about **pytorch,reactnative**
-
-- 📫 How to reach me **nurislamshourav6@gmail.com**
-
-- 📄 Know about my experiences [https://www.facebook.com/Nurislamshourav](https://www.facebook.com/Nurislamshourav)
-
-- ⚡ Fun fact **I love to think, read books and sometimes to play video games**
+- 🌱 I’m currently learning **everything and focusing on me 🤣**
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2024 Goals: Deep dive into Data Science 
+- ⚡ Fun fact **I love to think, read books and play video games sometimes**
 
 ## Connect with me
 <p align="left">
@@ -51,7 +29,6 @@
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 <!-- ![](https://github-readme-stats.vercel.app/api?username=NI-Shourav&theme=radical&_border=false&include_all_commits=true&count_private=true)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NI-Shourav&theme=radical&hide_border=false)
-
 <br/>
 
 # 🐍 snake eating my contribution graph
