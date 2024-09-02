@@ -41,5 +41,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ni-shourav&" alt="ni-shourav" /></p>
 
 ## snake eating my contribution graph
-![snake gif](https://github.com/NI-Shourav/NI-Shourav/blob/output/github-contribution-grid-snake.gif)
 
