@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ni-shourav&label=Profile%20views&color=0e75b6&style=flat" alt="ni-shourav" /> </p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NI-Shourav&label=Profile%20views&color=0e75b6&style=flat" alt="NI-Shourav" /> </p>
 
 - 🔭 I’m currently working on [A](https://www.facebook.com/Nurislamshourav)
 
