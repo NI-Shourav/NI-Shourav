@@ -1,13 +1,16 @@
-<h1 align="center">Hi 👋, I'm Nur Islam Shourav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Md+Nadeem+Sarwar..;Microsoft+Student+Ambassador;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
 
+<h1 align="center">Hi 👋, I'm Nur Islam Shourav</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ni-shourav&label=Profile%20views&color=0e75b6&style=flat" alt="ni-shourav" /> </p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 
 - 🔭 I’m currently working on [A](https://www.facebook.com/Nurislamshourav)
 
