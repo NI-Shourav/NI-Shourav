@@ -72,7 +72,6 @@
 
 <hr/>
 
-<br/>
 
 <!--
 ## GitHub Stats
@@ -82,6 +81,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NI-Shourav&theme=radical&hide_border=false)
 -->
 
-# 🐍 Snake eating my contribution graph
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  
 ![snake gif](https://github.com/NI-Shourav/NI-Shourav/blob/output/github-snake-dark.svg)
-
+<br/><br/><br/>
+</div>
