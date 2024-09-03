@@ -1,9 +1,5 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=ni-shourav&label=Profile%20views&color=brightgreen&style=for-the-badg" alt="ni-shourav" /> </p>
-<p align="right">
-    <a href="https://x.com/nishourav">
-        <img src="https://img.shields.io/twitter/follow/NISHOURAV?color=1DA1F2&logo=x&style=for-the-badge" alt="Twitter Follow">
-    </a>
-</p>
+<img align="right" src="https://komarev.com/ghpvc/?username=ni-shourav&label=visitors&color=brightgreen&style=for-the-badg" alt="ni-shourav" />
+
 
 <!-- 
 <p align="center">
@@ -69,6 +65,19 @@
 <a href="https://www.leetcode.com/nur islam shourav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nur islam shourav" height="30" width="40" /></a>
 <a href="https://discord.gg/#0246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#0246" height="30" width="40" /></a>
 </p>
+
+<hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
+
+<br/>
+
+<hr/>
 
 ## Languages and Tools
 <!-- <h3 align="left">Languages and Tools:</h3>-->
