@@ -1,4 +1,9 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ni-shourav&label=Profile%20views&color=brightgreen&style=for-the-badg" alt="ni-shourav" /> </p>
+<p align="right">
+    <a href="https://x.com/nishourav">
+        <img src="https://img.shields.io/twitter/follow/NISHOURAV?color=1DA1F2&logo=x&style=for-the-badge" alt="Twitter Follow">
+    </a>
+</p>
 
 <!-- 
 <p align="center">
@@ -16,20 +21,19 @@
 <!--
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi+There!👋+I'm+Nur+Islam+Shourav..;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
--->
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nur+Islam+Shourav..;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....;" />
-</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ni-shourav&label=Profile%20views&color=brightgreen&style=for-the-badg" alt="ni-shourav" /> </p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/NISHOURAV?color=1DA1F2&logo=x&style=for-the-badge)](https://x.com/nishourav)
+-->
 
-<br/>
+
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nur+Islam+Shourav..;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....;" />
+</h1>
 
 <div align="center">
   
-## I'm a Learner, Thinker, Developer, and a Good Son!!
+### I'm a Learner, Thinker, Developer, and a Good Son!!
 
 🥅 2024 Goals: Deep dive into Data Science
 
@@ -40,6 +44,21 @@
 ⚡ Fun fact **I love to think, read books and play video games sometimes**
  
  </div>
+
+ <div align="center"> 
+  <a href="mailto:nurislamshourav6@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/nurislamshourav/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="###" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
+ <hr/>
+ 
  
 ## Connect with me
 <p align="left">
