@@ -52,20 +52,6 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
-
- <hr/>
- 
- 
-## Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/nurislamshourav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nurislamshourav" height="30" width="40" /></a>
-<a href="https://kaggle.com/nishourav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nishourav" height="30" width="40" /></a>
-<a href="https://fb.com/nurislamshourav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nurislamshourav" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/nurislamshourav6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nurislamshourav6" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nur islam shourav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nur islam shourav" height="30" width="40" /></a>
-<a href="https://discord.gg/#0246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#0246" height="30" width="40" /></a>
-</p>
-
 <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
