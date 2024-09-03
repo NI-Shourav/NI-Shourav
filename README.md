@@ -35,9 +35,9 @@
 
 👯 I’m looking to collaborate with other content creators
 
-🌱 I’m currently learning **everything and focusing on me 🤣**
-
 ⚡ Fun fact **I love to think, read books and play video games sometimes**
+
+🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
  
  </div>
 
